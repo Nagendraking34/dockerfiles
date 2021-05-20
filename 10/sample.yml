@@ -11,4 +11,5 @@ services:
      placement:
       constraints:
        -node.hostname == Manager
+...
 
